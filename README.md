@@ -35,13 +35,12 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
-> ⚠️ Replace `Vihar26083` with your actual GitHub username if it’s different
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vihar26083&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihar26083&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihar20033&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihar20033&layout=compact&theme=radical" />
 </p>
 
 ---
