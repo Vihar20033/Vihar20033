@@ -45,6 +45,8 @@
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vihar20033&label=Profile%20views&color=0e75b6&style=flat" alt="Vihar20033" /> </p> ```
+
 ### 💡 Code Quote of the Day
 
 > _"Talk is cheap. Show me the code."_  
