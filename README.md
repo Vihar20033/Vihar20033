@@ -2,8 +2,9 @@
 <h3 align="center">A Curious Computer Science Student From GCET College of Engineering, ANAND</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vihar26083/Vihar26083/main/assets/banner.png" alt="Vihar's banner" width="100%" />
+  <img src="https://github.com/Vihar20033/Vihar20033/blob/main/assets/download.jpeg" alt="Vihar's custom banner" width="100%" />
 </p>
+
 
 ---
 
