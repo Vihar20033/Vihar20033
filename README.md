@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chudasama Vihar</h1>
 <h3 align="center">A Curious Computer Science Student From GCET College of Engineering, ANAND</h3>
 
-<p align="center">
-  <img src="image.jpeg" alt="Vihar's custom banner" width="100%" />
-</p>
-
-
 
 ---
 
