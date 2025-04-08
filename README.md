@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I’m currently diving into **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, and **Node.js**
+- 🌱 I’m currently diving into **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, and **Javascript**
 - 📬 Reach me at: [vihar.chudasama7@gmail.com](mailto:vihar.chudasama7@gmail.com)
 - 💬 Ask me about `.NET`, `JavaScript`, `Python`, or what it’s like to live in debug mode
 
