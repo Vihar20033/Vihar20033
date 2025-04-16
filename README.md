@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently diving into **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, and **Javascript**
 - 📬 Reach me at: [vihar.chudasama7@gmail.com](mailto:vihar.chudasama7@gmail.com)
-- 💬 Ask me about `.NET`, `JavaScript`, `Python`, or what it’s like to live in debug mode
 
 ---
 
@@ -44,18 +43,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vihar20033&label=Profile%20views&color=0e75b6&style=flat" alt="Vihar20033" /> </p> ```
 
-### 💡 Code Quote of the Day
-
-> _"Talk is cheap. Show me the code."_  
-> — *Linus Torvalds*
-
-```python
-# reminder to future me
-def keep_growing():
-    while True:
-        try:
-            learn_something_new()
-        except BurnoutError:
-            take_a_break()
-        finally:
-            get_back_to_it()
