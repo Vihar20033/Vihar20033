@@ -5,7 +5,7 @@
 ---
 
 - 🌱 I’m currently diving into **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, and **Javascript**
-- 📬 Reach me at: [vihar.chudasama7@gmail.com](mailto:vihar.chudasama7@gmail.com)
+- 📬 Reach me at: [viharchudasama7@gmail.com](mailto:vihar.chudasama7@gmail.com)
 
 ---
 
